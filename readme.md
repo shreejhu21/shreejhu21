@@ -62,13 +62,13 @@ A TCP-based file transfer system written in C that encrypts files before transmi
 
 ### 🔎 [Automated Web Vulnerability Scanner](https://github.com/shreejhu21/sitescan)
 
-A Django-based web security application integrating Wapiti to automate vulnerability scanning and reporting.
+A Django-based web security application integrating Nuclei and OWASP ZAP to automate vulnerability scanning and security reporting.
 
-- Automated web vulnerability scans through a user-facing interface
-- Analyzed results for SQL Injection, XSS, and CSRF indicators
-- Generated structured reports containing findings, severity, and remediation guidance
+- Automated URL-based vulnerability scans through a user-facing interface
+- Processed scanner results into severity-based findings and risk levels
+- Generated structured scan results with downloadable reports
 
-**Technologies:** Python • Django • HTTP • HTML/CSS • Wapiti
+**Technologies:** Python • Django • Nuclei • OWASP ZAP • HTTP • HTML/CSS
 
 ---
 
