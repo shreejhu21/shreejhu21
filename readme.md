@@ -1,18 +1,91 @@
+```markdown
 # Hi, I'm Shreejha Sukanthan 👋
 
-MS CS @ Binghamton University (SUNY) | B.Tech CSE (Cyber Security) @ SRM  
-Interested in Software Engineering and Secure Development.
+🎓 M.S. Computer Science @ Binghamton University (SUNY)  
+🔐 B.Tech CSE (Cyber Security) @ SRM Institute of Science & Technology  
 
-## Tech
-Python • C/C++ • JavaScript • SQL  
-Django • Angular • REST • HTML/CSS • Bootstrap  
-PostgreSQL • MongoDB • Git/GitHub • Linux • Docker
+Focused on **Cybersecurity, Networking, Linux Systems, and Systems Security**.
 
-## Projects
-- **Kernel Buffer Overflow — Attack & Defense (C/Linux Kernel)**
-- **Encrypted File Transfer Tool (C/TCP/POSIX Threads)**
-- **OWASP Zapper — Web Vulnerability Scanner (Python/Django/Wapiti)**
+I enjoy understanding how systems and networks work, identifying security vulnerabilities, and building secure and reliable solutions.
 
-## Connect
-LinkedIn: https://linkedin.com/in/shreejha-sukanthan-022b74297  
-GitHub: https://github.com/shreejhu21
+---
+
+## 🛠️ Technical Skills
+
+### 🔐 Cybersecurity
+Web Security • Vulnerability Assessment • SQL Injection • XSS • CSRF • Buffer Overflow • Privilege Escalation • Input Validation
+
+### 🌐 Networking
+TCP/IP • TCP Sockets • HTTP/HTTPS • DNS • Routing & Switching • Network Protocols
+
+### 🖥️ Systems
+Linux • Linux Kernel Modules • Memory Management • Multithreading • POSIX Threads • System Calls • File I/O • Signal Handling
+
+### 💻 Programming
+Python • C • C++ • SQL • JavaScript
+
+### 🔧 Tools & Technologies
+Wapiti • Docker • Git • GitHub • GCC • Make • VS Code
+
+### 🗄️ Databases & Web
+PostgreSQL • MongoDB • Django • REST APIs • HTML/CSS
+
+---
+
+## 🚀 Featured Projects
+
+### 🛡️ [Kernel Buffer Overflow — Attack & Defense](https://github.com/shreejhu21/Kernel-buffer-Overflow-Attack-and-Defense)
+
+A Linux kernel security project demonstrating buffer-overflow exploitation, privilege escalation, and defensive mitigation techniques.
+
+- Implemented a vulnerable Linux kernel module in C
+- Reproduced buffer-overflow-based privilege escalation in a controlled environment
+- Evaluated bounds checking, input validation, and stack-canary mitigations
+- Benchmarked mitigation overhead using micro-tests
+
+**Technologies:** C • Linux Kernel Modules • Kernel Memory Management • GCC • Make
+
+---
+
+### 🔐 [Encrypted File Transfer Tool — Client–Server System](https://github.com/shreejhu21/EFTT)
+
+A TCP-based file transfer system written in C that encrypts files before transmission and demonstrates systems and network programming concepts.
+
+- Implemented a TCP client for encrypted file transmission
+- Managed file metadata, dynamic buffers, and partial-send handling
+- Implemented reliable binary file I/O and server acknowledgment handling
+- Developed shared socket, signal-handling, directory-management, and error-handling utilities
+
+**Technologies:** C • TCP Sockets • Linux • File I/O • POSIX Threads • XOR Cipher
+
+---
+
+### 🔎 [Automated Web Vulnerability Scanner](https://github.com/shreejhu21/sitescan)
+
+A Django-based web security application integrating Wapiti to automate vulnerability scanning and reporting.
+
+- Automated web vulnerability scans through a user-facing interface
+- Analyzed results for SQL Injection, XSS, and CSRF indicators
+- Generated structured reports containing findings, severity, and remediation guidance
+
+**Technologies:** Python • Django • HTTP • HTML/CSS • Wapiti
+
+---
+
+## 🎯 Areas of Interest
+
+- Cybersecurity
+- Network Security
+- Systems Security
+- Vulnerability Assessment
+- Linux Security
+- Secure Software Development
+
+---
+
+## 📫 Connect With Me
+
+🔗 **LinkedIn:** [linkedin.com/in/shreejha-sukanthan](https://www.linkedin.com/in/shreejha-sukanthan)  
+💻 **GitHub:** [github.com/shreejhu21](https://github.com/shreejhu21)  
+🌐 **Portfolio:** [shreejha-portfolio.onrender.com](https://shreejha-portfolio.onrender.com)
+```
